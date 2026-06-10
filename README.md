@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis — Capstone Project
+# Customer Shopping Behavior Analysis - Capstone Project
 
 An end-to-end data analysis project combining Python, SQL, and Power BI to analyse customer shopping behavior across 3,900 transactions.
 
