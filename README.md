@@ -77,4 +77,4 @@ Built an interactive dashboard with 3 KPIs (3.9K customers, $59.76 avg purchase,
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](Snapshot of Customer Behavior Dashboard.png)
+![Customer Behavior Dashboard](Snapshot_of_Customer_Behavior_Dashboard.png)
