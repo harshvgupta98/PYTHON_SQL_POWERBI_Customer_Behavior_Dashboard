@@ -4,6 +4,13 @@ An end-to-end data analysis project combining Python, SQL, and Power BI to analy
 
 ---
 
+## Dashboard Preview
+
+![Customer Behavior Dashboard](Snapshot_Customer_Behavior_Dashboard.png)
+
+
+---
+
 ## Short Description
 
 A full-pipeline data analysis project that takes raw customer shopping data through cleaning and feature engineering in Python, business analysis in PostgreSQL, and visual reporting in Power BI. It covers spending patterns, customer segmentation, product preferences, discount behavior, and subscription trends across 3,900 transactions.
@@ -85,8 +92,3 @@ Built an interactive dashboard with 3 KPIs (3.9K customers, $59.76 avg purchase,
 
 > Do not commit PostgreSQL credentials to GitHub.
 
----
-
-## Dashboard Preview
-
-![Customer Behavior Dashboard](Snapshot_Customer_Behavior_Dashboard.png)
